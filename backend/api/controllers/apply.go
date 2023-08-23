@@ -50,7 +50,7 @@ var emailConfig = EmailConfig{
 	SMTPHost:     "smtp.gmail.com",
 	SMTPPort:     587,
 	FromEmail:    "nextjob.group1@gmail.com",
-	FromPassword: "onxnmlggoetoycds",
+	FromPassword: "yourpassword",
 }
 
 func ApplyJob(c *gin.Context) {
