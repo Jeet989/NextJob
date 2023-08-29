@@ -103,7 +103,7 @@ With respect to process, we have followed design thinking strategy where we star
 ## Team
 
 - [Aayush Dakwala](https://github.com/aayush305)
-- [Jeet Mehta](https://github.com/)
+- [Jeet Mehta](https://github.com/Jeet989)
 - [Kruti Panchal](https://github.com/)
 - [Lokeshwar Kumar Tabjula](https://github.com/lokeshwartabjula)
 - [Maulik Gajipara](https://github.com/)
