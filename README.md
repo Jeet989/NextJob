@@ -104,12 +104,12 @@ With respect to process, we have followed design thinking strategy where we star
 
 ## Team
 
-- [Aayush Dakwala](https://github.com/aayush305) - _(Developer)_
-- [Jeet Mehta](https://github.com/) - _(Developer)_
-- [Kruti Panchal](https://github.com/) - _(Developer)_
-- [Lokeshwar Kumar Tabjula](https://github.com/) - _(Developer)_
-- [Maulik Gajipara](https://github.com/) - _(Developer)_
-- [Kishan Patel](https://github.com/patelkishan9286) - _(Developer)_
+- [Aayush Dakwala](https://github.com/aayush305)
+- [Jeet Mehta](https://github.com/)
+- [Kruti Panchal](https://github.com/)
+- [Lokeshwar Kumar Tabjula](https://github.com/)
+- [Maulik Gajipara](https://github.com/)
+- [Kishan Patel](https://github.com/patelkishan9286)
 
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white
 [Next-url]: https://nextjs.org/
