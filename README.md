@@ -106,7 +106,7 @@ With respect to process, we have followed design thinking strategy where we star
 - [Jeet Mehta](https://github.com/Jeet989)
 - [Kruti Panchal](https://github.com/)
 - [Lokeshwar Kumar Tabjula](https://github.com/lokeshwartabjula)
-- [Maulik Gajipara](https://github.com/)
+- [Maulik Gajipara](https://github.com/MaulikGajipara007)
 - [Kishan Patel](https://github.com/patelkishan9286)
 
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white
