@@ -17,6 +17,20 @@ With respect to process, we have followed design thinking strategy where we star
 </tr>
 </table>
 
+## Key Features Developed
+
+- Filter, apply jobs for seekers.
+- Employer notification:
+- Location-based job search
+- Insights Dashboard
+- Onboarding and profile management
+- Customized applicant filter
+- Job posting management
+- Company review management
+- Company overview and active job openings
+- Customized Companies Listing
+- Candidate details
+
 ## Site
 
 ### Landing Page
@@ -59,22 +73,6 @@ With respect to process, we have followed design thinking strategy where we star
 
 ![](images/JobListingEmployer.png)
 
-## List of Features Developed
-
-- _Job Application Process:_ This feature is designed for job seekers to view the list of jobs, filter them based on their preferences, and then apply for the desired job.
-- _Employer notification:_ The employer notification feature ensures that the employer gets notified through email, whenever a seeker submits.
-- _Location-based job search:_ The location-based job search feature enables users to input their desired radius and filters job listings accordingly, displaying relevant opportunities within the specified area.
-- _Insights Dashboard:_ This feature has widgets and chart components that provide visual insights based on different aspects like Average Salary, Skill Demand and location-based Job openings.
-- _Onboarding and profile management:_ This feature enables both job seekers and employers to enroll themselves as registered users of the application and let them manage their profiles.
-- _Customized applicant filter:_ The customized applicant filter tailors and refines the applicant search criteria based on specific requirements, allowing employers to efficiently shortlist and identify qualified candidates.
-- _Job posting management:_ Employers can effectively create, edit, and manage job postings within the system, ensuring accurate and up-to-date job listings.
-- _Company review management:_ Enables recently joined employees to post and update reviews on a listed company, fostering transparency and engagement with the company’s reputation.
-- _Company overview and active job openings:_ This feature is completely developed. Through this feature, user will be able to browse details about the desired company in the "description" tab. View reviews about the company in the "Reviews" tab, and then view job openings in the "Active Job Openings" tab.
-
-- _Customized Companies Listing:_ This feature is partially developed. Through this feature, user will be able to view all the companies that have been partnered with our next job platform. It also has customized filter which are partially implemented. These filters help users to filter companies based on their requirements.
-
-- _Candidate details:_ This feature is for the employers to view comprehensive details about candidates who have applied for job positions, including their qualifications, experience, and contact information, aiding in the evaluation and selection process.
-
 ### Tools & Technologies Used
 
 - [![Next][Next.js]][Next-url]
@@ -107,7 +105,7 @@ With respect to process, we have followed design thinking strategy where we star
 - [Aayush Dakwala](https://github.com/aayush305)
 - [Jeet Mehta](https://github.com/)
 - [Kruti Panchal](https://github.com/)
-- [Lokeshwar Kumar Tabjula](https://github.com/)
+- [Lokeshwar Kumar Tabjula](https://github.com/lokeshwartabjula)
 - [Maulik Gajipara](https://github.com/)
 - [Kishan Patel](https://github.com/patelkishan9286)
 
