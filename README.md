@@ -104,7 +104,7 @@ With respect to process, we have followed design thinking strategy where we star
 
 ## Team
 
-- [Aayush Dakwala](ay383119@dal.ca) - _(Developer)_
+- [Aayush Dakwala](mailto:ay383119@dal.ca) - _(Developer)_
 - [Jeet Mehta](jt429386@dal.ca) - _(Developer)_
 - [Kruti Panchal](lk544219@dal.ca) - _(Developer)_
 - [Lokeshwar Kumar Tabjula](lk544219@dal.ca) - _(Developer)_
