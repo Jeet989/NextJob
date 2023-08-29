@@ -31,6 +31,17 @@ With respect to process, we have followed design thinking strategy where we star
 - Customized Companies Listing
 - Candidate details
 
+### Tools & Technologies Used
+
+- [![Next][Next.js]][Next-url]
+- [![Golang][Golang]][Golang-url]
+- [![Gin][Gin]][Gin-url]
+- [![MongoDB][MongoDB]][MongoDB-url]
+- [![Material-UI][MaterialUI]][MaterialUI-url]
+- [![Formik][Formik]][Formik-url]
+- [![Google Maps][GoogleMaps]][GoogleMaps-url]
+- [![Google Places API][GooglePlacesAPI]][GooglePlacesAPI-url]
+
 ## Site
 
 ### Landing Page
@@ -72,17 +83,6 @@ With respect to process, we have followed design thinking strategy where we star
 ## Employer Dashboard
 
 ![](images/JobListingEmployer.png)
-
-### Tools & Technologies Used
-
-- [![Next][Next.js]][Next-url]
-- [![Golang][Golang]][Golang-url]
-- [![Gin][Gin]][Gin-url]
-- [![MongoDB][MongoDB]][MongoDB-url]
-- [![Material-UI][MaterialUI]][MaterialUI-url]
-- [![Formik][Formik]][Formik-url]
-- [![Google Maps][GoogleMaps]][GoogleMaps-url]
-- [![Google Places API][GooglePlacesAPI]][GooglePlacesAPI-url]
 
 ## Code Integration Instructions
 
