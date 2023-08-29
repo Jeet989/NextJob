@@ -86,15 +86,6 @@ With respect to process, we have followed design thinking strategy where we star
 - [![Google Maps][GoogleMaps]][GoogleMaps-url]
 - [![Google Places API][GooglePlacesAPI]][GooglePlacesAPI-url]
 
-## Team
-
-- [Aayush Dakwala](ay383119@dal.ca) - _(Developer)_
-- [Jeet Mehta](jt429386@dal.ca) - _(Developer)_
-- [Kruti Panchal](lk544219@dal.ca) - _(Developer)_
-- [Lokeshwar Kumar Tabjula](lk544219@dal.ca) - _(Developer)_
-- [Maulik Gajipara](ml477880@dal.ca) - _(Developer)_
-- [Kishan Patel](kpatel@dal.ca) - _(Developer)_
-
 ## Code Integration Instructions
 
 ### Backend
@@ -110,6 +101,15 @@ With respect to process, we have followed design thinking strategy where we star
 - Navigate to the frontend folder using the following command: `cd frontend/`
 - Install the dependencies using the following command: `npm install`
 - Run the server using the following command: `npm run dev`
+
+## Team
+
+- [Aayush Dakwala](ay383119@dal.ca) - _(Developer)_
+- [Jeet Mehta](jt429386@dal.ca) - _(Developer)_
+- [Kruti Panchal](lk544219@dal.ca) - _(Developer)_
+- [Lokeshwar Kumar Tabjula](lk544219@dal.ca) - _(Developer)_
+- [Maulik Gajipara](ml477880@dal.ca) - _(Developer)_
+- [Kishan Patel](kpatel@dal.ca) - _(Developer)_
 
 [Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white
 [Next-url]: https://nextjs.org/
